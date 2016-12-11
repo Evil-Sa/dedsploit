@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import os, sys, platform
 
 sys.path.append('dedsploit/')
